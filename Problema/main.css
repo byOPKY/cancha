@@ -1,0 +1,50 @@
+.grande{
+	background: #31B404;
+	width: 800px;
+	height: 500px;
+}
+.mediano{
+	border: 2px solid white;
+	position: absolute;
+	top: 30px;
+	width: 750px;
+	height: 450px;
+	left: 30px;
+}
+.caja{
+	border: 2px solid white;
+	position: absolute;
+	width: 100px;
+	height: 150px;
+	top: 150px;
+}
+
+.recta2{
+	right: 0;
+}
+.circulo{
+	border: 2px solid white;
+	position: absolute;
+	width: 150px;
+	height: 150px;
+	top: 150px;
+	border-radius: 100%;
+	right: 40%;
+}
+.img{
+	position: absolute;
+}
+.img1{
+	top: 155px;
+	left: 90px;
+
+}
+.img2{
+	top: 55px;
+	left: 50%;
+
+}
+.img3{
+	top: 270px;
+	right: 110px;
+}
